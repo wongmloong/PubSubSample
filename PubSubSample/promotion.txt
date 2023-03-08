@@ -1,0 +1,3 @@
+Item Description,Selling Price,Discount (%),Actual Selling Price
+MamyPoko Air Fit Boy Pants XXL,60.00,10,54.00
+MamyPoko Air Fit Baby Diapers Girl XXL,55.00,10,49.50
